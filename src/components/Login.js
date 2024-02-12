@@ -1,7 +1,7 @@
 import React, { useRef } from "react";
 import Header from "./Header";
 import { useState } from "react";
-import { checkValidData } from "./utils/validate";
+import { checkValidData } from "../utils/validate.js";
 
 const Login = () => {
   const [isSignUp, setIsSignUp] = useState(false);
