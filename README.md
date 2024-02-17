@@ -8,6 +8,12 @@
 -Sign Up form
 -Form validation
 -UseRef Hook
+-Firebase setup
+-Deploying our app to production
+-Create signup user account
+-implement sign in user api
+-used the Redux store to store the data
+-navigate to the browse page once the user is logged in or sign up
 
 #features
 -Login/Sign Up
